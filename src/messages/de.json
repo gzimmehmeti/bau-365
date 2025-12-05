@@ -1,0 +1,9 @@
+{
+  "loading": "Auktionen werden geladen...",
+  "error": "Fehler beim Laden:",
+  "noResults": "Keine Auktionen gefunden.",
+  "title": "Auktionen (Mock-Daten)",
+  "status": "Status",
+  "currentPrice": "Aktueller Preis",
+  "endsAt": "Endet am"
+}

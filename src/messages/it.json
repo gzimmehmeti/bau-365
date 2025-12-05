@@ -1,0 +1,9 @@
+{
+  "loading": "Caricamento delle aste...",
+  "error": "Errore durante il caricamento:",
+  "noResults": "Nessuna asta trovata.",
+  "title": "Aste (Mock)",
+  "status": "Stato",
+  "currentPrice": "Prezzo attuale",
+  "endsAt": "Termina il"
+}

@@ -1,0 +1,9 @@
+{
+  "loading": "Loading auctions...",
+  "error": "Failed to load:",
+  "noResults": "No auctions found.",
+  "title": "Auctions (Mocked)",
+  "status": "Status",
+  "currentPrice": "Current price",
+  "endsAt": "Ends at"
+}

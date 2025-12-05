@@ -1,0 +1,9 @@
+{
+  "loading": "Chargement des enchères...",
+  "error": "Échec du chargement :",
+  "noResults": "Aucune enchère trouvée.",
+  "title": "Enchères (Mock)",
+  "status": "Statut",
+  "currentPrice": "Prix actuel",
+  "endsAt": "Se termine le"
+}
