@@ -5,5 +5,32 @@
   "title": "Auktionen (Mock-Daten)",
   "status": "Status",
   "currentPrice": "Aktueller Preis",
-  "endsAt": "Endet am"
+  "endsAt": "Endet am",
+  "login": {
+    "title": "Anmeldung erforderlich",
+    "message": "Bitte melden Sie sich an, um die Auktionen anzuzeigen. Zur Auktionenliste geht es",
+    "link": "hier"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Schneller Überblick über Ihre Auktionsaktivität.",
+    "cards": {
+      "activeBids": "Aktive Gebote",
+      "wonAuctions": "Gewonnene Auktionen",
+      "watchlist": "Beobachtungsliste"
+    },
+    "activityTitle": "Letzte Aktivitäten",
+    "activityItems": {
+      "outbid": "Sie wurden bei einer Vintage-Kamera überboten.",
+      "won": "Sie haben die Auktion für den minimalistischen Stuhl gewonnen.",
+      "reminder": "Erinnerung: Auktion endet in 2 Stunden."
+    }
+  },
+  "register": {
+    "title": "Konto erstellen",
+    "subtitle": "Mitmachen, bieten, beobachten und gewinnen.",
+    "placeholder": "Registrierungsformular kommt hier hin.",
+    "haveAccount": "Sie haben bereits ein Konto?",
+    "loginLink": "Anmelden"
+  }
 }
