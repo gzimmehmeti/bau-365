@@ -5,5 +5,32 @@
   "title": "Auctions (Mocked)",
   "status": "Status",
   "currentPrice": "Current price",
-  "endsAt": "Ends at"
+  "endsAt": "Ends at",
+  "login": {
+    "title": "Login required",
+    "message": "Please sign in to view the auctions. Go to the auctions list",
+    "link": "here"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Quick overview of your auction activity.",
+    "cards": {
+      "activeBids": "Active bids",
+      "wonAuctions": "Won auctions",
+      "watchlist": "Watchlist items"
+    },
+    "activityTitle": "Recent activity",
+    "activityItems": {
+      "outbid": "You were outbid on a vintage camera.",
+      "won": "You won the minimalist chair auction.",
+      "reminder": "Reminder: Auction ends in 2 hours."
+    }
+  },
+  "register": {
+    "title": "Create account",
+    "subtitle": "Join to bid, watch, and win auctions.",
+    "placeholder": "Registration form goes here.",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Log in"
+  }
 }

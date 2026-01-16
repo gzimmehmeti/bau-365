@@ -5,5 +5,32 @@
   "title": "Enchères (Mock)",
   "status": "Statut",
   "currentPrice": "Prix actuel",
-  "endsAt": "Se termine le"
+  "endsAt": "Se termine le",
+  "login": {
+    "title": "Connexion requise",
+    "message": "Veuillez vous connecter pour voir les enchères. Accéder à la liste des enchères",
+    "link": "ici"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Aperçu rapide de votre activité d'enchères.",
+    "cards": {
+      "activeBids": "Enchères actives",
+      "wonAuctions": "Enchères gagnées",
+      "watchlist": "Articles surveillés"
+    },
+    "activityTitle": "Activité récente",
+    "activityItems": {
+      "outbid": "Vous avez été surenchéri sur un appareil photo vintage.",
+      "won": "Vous avez remporté l'enchère pour la chaise minimaliste.",
+      "reminder": "Rappel : l'enchère se termine dans 2 heures."
+    }
+  },
+  "register": {
+    "title": "Créer un compte",
+    "subtitle": "Rejoignez-nous pour enchérir et gagner.",
+    "placeholder": "Le formulaire d'inscription ira ici.",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "loginLink": "Se connecter"
+  }
 }

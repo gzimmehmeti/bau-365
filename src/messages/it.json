@@ -5,5 +5,32 @@
   "title": "Aste (Mock)",
   "status": "Stato",
   "currentPrice": "Prezzo attuale",
-  "endsAt": "Termina il"
+  "endsAt": "Termina il",
+  "login": {
+    "title": "Accesso richiesto",
+    "message": "Accedi per visualizzare le aste. Vai all'elenco delle aste",
+    "link": "qui"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Panoramica rapida della tua attivita d'asta.",
+    "cards": {
+      "activeBids": "Offerte attive",
+      "wonAuctions": "Aste vinte",
+      "watchlist": "Elementi osservati"
+    },
+    "activityTitle": "Attivita recente",
+    "activityItems": {
+      "outbid": "Sei stato superato su una fotocamera vintage.",
+      "won": "Hai vinto l'asta per la sedia minimalista.",
+      "reminder": "Promemoria: l'asta termina tra 2 ore."
+    }
+  },
+  "register": {
+    "title": "Crea account",
+    "subtitle": "Iscriviti per fare offerte e vincere.",
+    "placeholder": "Il modulo di registrazione va qui.",
+    "haveAccount": "Hai gia un account?",
+    "loginLink": "Accedi"
+  }
 }

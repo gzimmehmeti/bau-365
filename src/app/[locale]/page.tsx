@@ -1,10 +1,13 @@
 "use client";
 
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { useAuctions } from "@/hooks/query/auction";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export default function AuctionsPage() {
   const t = useTranslations(); // <-- we will namespace it
+  const locale = useLocale();
 
   const { data, isLoading, isError, error } = useAuctions();
 
@@ -38,6 +41,17 @@ export default function AuctionsPage() {
             </p>
           </div>
         ))}
+      </div>
+      <div className="flex justify-around">
+        <Button>
+          <Link href={`/${locale}/login`}>Login</Link>
+        </Button>
+        <Button>
+          <Link href={`/${locale}/register`}>Register</Link>
+        </Button>
+        <Button>
+          <Link href={`/${locale}/dashboard`}>Dashboard</Link>
+        </Button>
       </div>
     </div>
   );
